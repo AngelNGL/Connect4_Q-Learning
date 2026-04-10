@@ -85,3 +85,11 @@ Se puede ejecutar "main.py" para jugar una versión sencilla.
 
 Tambien se puede ejecutar con el siguente comando en la terminal:
 >python -m Connect4.main_terminal
+---
+### Como generar información para el folder *Data*
+
+Dentro del folder Data se crearán solos los folders *Qtables* y *Reports*, pero solamente después de entrenar al agente.
+
+Esto se puede realizar al ejecutar "train_data.py", o ejecutando el siguiente comando en la terminal:
+>python -m Connect4.AI_cpu.train_data
+---
