@@ -6,6 +6,7 @@ En esta práctica se implementó un agente de *Q-Learning en Python*, capaz de a
 
 El agente se entrena automáticamente mediante múltiples partidas simuladas, y almacena se conocimiento
 en archivos *Q-table* en formato JSON, los cuales son utilizados posteriormente para jugar contra el usuario.
+
 ---
 ### Reglas del juego
 
