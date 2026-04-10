@@ -76,13 +76,13 @@ en archivos *Q-table* en formato JSON, los cuales son utilizados posteriormente 
 ### Como ejecutar el programa
 
 #### Versión completa:
-Se puede ejecutar "main_pygame.py" para jugar la versión completa/final.
+Se puede ejecutar "main.py" para jugar la versión completa/final.
 
 O También se puede ejecutar con el siguiente comando en la terminal:
 >python -m Connect4.main
 
 #### Versión simple en terminal:
-Se puede ejecutar "main.py" para jugar una versión sencilla.
+Se puede ejecutar "main_terminal.py" para jugar una versión sencilla.
 
 Tambien se puede ejecutar con el siguente comando en la terminal:
 >python -m Connect4.main_terminal
